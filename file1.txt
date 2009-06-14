@@ -3,3 +3,5 @@ modified1 (2)
 modified 3 (4)
 
 branch1 changes
+
+add some lines from master branch
